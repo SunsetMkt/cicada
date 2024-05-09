@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@expo/spawn-async": "^1.6.0",
-    "@koa/cors": "^3.3.0",
+    "@koa/cors": "^5.0.0",
     "archiver": "^5.3.1",
     "clrc": "^3.0.1",
     "commander": "^9.4.1",
